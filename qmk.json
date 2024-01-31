@@ -1,6 +1,6 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["kinesis", "mrdeerly"]
+        ["kinesis/kint41", "mrdeerly"]
     ]
 }
